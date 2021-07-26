@@ -9,4 +9,7 @@ st_file = sys.stdin
 for line in st_file:
     dots.append(list(map(int, line.split())))
 
+for i in range(100):
+    print(i)
+
 print(dots)
