@@ -16,3 +16,6 @@ print(dots)
 
 for i in range(50):
     print(i)
+
+
+print('Мегафон')
