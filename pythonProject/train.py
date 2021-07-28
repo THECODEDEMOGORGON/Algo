@@ -14,5 +14,5 @@ for i in range(100):
 
 print(dots)
 
-for i in rane(50):
-    print(w)
+for i in range(50):
+    print(i)
