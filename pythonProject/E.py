@@ -34,3 +34,4 @@ for i in predicts.tolist():
     print(i)
 
 print('noob_reg')
+print('noob_class')
