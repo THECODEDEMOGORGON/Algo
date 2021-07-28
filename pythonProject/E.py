@@ -32,3 +32,5 @@ predicts = reg.predict(X_test)
 print(predicts)
 for i in predicts.tolist():
     print(i)
+
+print('cool_reg')
