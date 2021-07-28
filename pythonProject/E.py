@@ -33,4 +33,4 @@ print(predicts)
 for i in predicts.tolist():
     print(i)
 
-print('cool_reg')
+print('noob_reg')
