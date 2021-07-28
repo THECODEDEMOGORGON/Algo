@@ -35,3 +35,4 @@ for i in predicts.tolist():
 
 print('noob_reg')
 print('noob_class')
+print('noob_cluster')
