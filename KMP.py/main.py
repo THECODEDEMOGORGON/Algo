@@ -3,7 +3,7 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-t = 'амневсепохуйясделанизмясалилилавыывфафыаитидмддипоху'
+t = 'sdkadpapkskpdpkapskapkdpakdpkapkdpkadpkdpaapdkpad'
 
 p = [0] * len(t)
 
@@ -22,3 +22,5 @@ while i < len(t):
         else:
             j = p[j-1]
 print(p)
+
+for i in tange

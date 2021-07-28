@@ -13,3 +13,6 @@ for i in range(100):
     print(i)
 
 print(dots)
+
+for i in rane(50):
+    print(w)
